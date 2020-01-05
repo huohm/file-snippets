@@ -1,0 +1,22 @@
+.ub
+{
+	display: flex;
+}
+
+.ub-ac
+{
+	align-items: center;
+}
+.ub-ae
+{
+	align-items: flex-end;
+}
+
+.ub-f1
+{
+	flex: 1;
+}
+
+.wrap-margin {
+	margin:20px 50px;
+}
